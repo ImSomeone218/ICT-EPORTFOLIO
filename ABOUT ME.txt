@@ -1,0 +1,15 @@
+<html>
+<head><title> About Me </title></head>
+<h1 align="center"> About Me </h1>
+<body bgcolor="#EBE6E0">
+
+I don't have a lot of hobbies, but I have one main thing I like to do in my free time<br>
+and that's playing my guitar. I'm acutally a part of a band as the Rhythm/Lead Guitarist,<br>
+and I'm very proud to say that. In last year's Battle of The Bnads at School, we received<br>
+individual awards and we also won as the Champion! It's still quite shocking to me to think<br>
+we palced 3rd in the BoTB in 2023, and now, we placed as the champion, and I am forver<br>
+greatful for that opportunity that was given to us.
+
+<img src="BOTB champion trophy.jpg" height="200px" width="300px">
+</body>
+</html>
